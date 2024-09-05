@@ -6,7 +6,7 @@ As a result, you can always recreate the exact same results you got online local
 
 # Toolchain
 
-## [emerald-processing-em](https://github.com/emerald-geomodelling/emerald-beryl-pipeline)
+## [emerald-beryl-pipeline](https://github.com/emerald-geomodelling/emerald-beryl-pipeline)
 This repository ties together all the other parts into a [Luigi](https://luigi.readthedocs.io/en/stable/) based pipeline runner for import/normalization, processing and inversion of AEM data.
 If you want to reproduce processings and inversion you did online, this is where you should start.
 

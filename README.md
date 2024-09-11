@@ -1,3 +1,5 @@
+<img src="model.png" style="float: right"></img>
+
 # Processing and inversion tools for AEM
 
 Emerald has open sourced our tooling for processing and inversion in a notebook. This is the same code that we run in our pipelines in our online tool [Beryl](https://beryl.emrld.no/).

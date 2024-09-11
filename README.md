@@ -5,11 +5,15 @@ Emerald has open sourced our tooling for processing and inversion in a notebook.
 
 As a result, you can always recreate the exact same results you got online locally and inspect the code that produced them, giving you the transparency you need in a scientific setting. What the online tool provide on top of this is a very nice manual culling tool with an integrated map view, a graphical editor for your processing workflow, and of course, the ability to run inversion on fast machines in the cloud without having to install and manage those machines!
 
+<img align="right" width="300" src="./measured_vs_synthetic.png">
+
 # Toolchain
 
 ## [emerald-beryl-pipeline](https://github.com/emerald-geomodelling/emerald-beryl-pipeline)
 This repository ties together all the other parts into a [Luigi](https://luigi.readthedocs.io/en/stable/) based pipeline runner for import/normalization, processing and inversion of AEM data.
 If you want to reproduce processings and inversion you did online, this is where you should start.
+
+<img align="right" width="300" src="./system.png">
 
 ## [emerald-processing-em](https://github.com/emerald-geomodelling/emerald-processing-em)
 TEM processing pipeline and filter repository. This allows you to easily construct reproducible workflows for filtering and averaging your data prior to inversion.

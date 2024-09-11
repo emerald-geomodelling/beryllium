@@ -14,7 +14,7 @@ If you want to reproduce processings and inversion you did online, this is where
 TEM processing pipeline and filter repository. This allows you to easily construct reproducible workflows for filtering and averaging your data prior to inversion.
 
 ## [SimPEG SimpleEM](https://github.com/emerald-geomodelling/simpeg/tree/simpleem3)
-Streamlined inversion of AEM data in a libaarhus container on top of the ordinary SimPEG tools for TEM data.
+Streamlined inversion of AEM data in a libaarhus container on top of the ordinary SimPEG tools for TEM data. More detailed documentation and notebooks showcasing how to use SimpleEM can be found in [the example repo](https://github.com/emerald-geomodelling/simpeg-simpleem-examples).
 
 ## [libaarhusxyz](https://github.com/emerald-geomodelling/libaarhusxyz)
 Container for electromagnetic geophysical measuerement data and resistivity models as well as parser for the XYZ family of formats and export functionality for a variety of visualization and mapping format. Supported data formats include

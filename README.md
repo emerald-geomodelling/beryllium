@@ -1,7 +1,8 @@
 # Processing and inversion tools for AEM
 
 <img align="right" width="300" src="./model.png">
-Emerald has open sourced our tooling for processing and inversion in a notebook. This is the same code that we run in our pipelines in our online tool [Beryl](https://beryl.emrld.no/).
+
+Emerald has open sourced our tooling for processing and inversion in a notebook. This is the same code that we run in our pipelines in our online tool Beryl. Please contact us at *ehATemrld.no* if you want beta access to Beryl.
 
 As a result, you can always recreate the exact same results you got online locally and inspect the code that produced them, giving you the transparency you need in a scientific setting. What the online tool provide on top of this is a very nice manual culling tool with an integrated map view, a graphical editor for your processing workflow, and of course, the ability to run inversion on fast machines in the cloud without having to install and manage those machines!
 
